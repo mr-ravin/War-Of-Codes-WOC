@@ -11,4 +11,4 @@ For better understanding of the game, a [Youtube video](https://youtu.be/EH4KLgm
  
 ## Contributor
 - [Shalabh Agarwal](https://www.linkedin.com/in/shalabh-agarwal/)
-- [Ravin Kumar](https://www.linkedin.com/in/ravinkumar21/)
+- [Ravin Kumar](https://mr-ravin.github.io)
